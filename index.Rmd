@@ -11,6 +11,7 @@ MY name is Roujin An. I am a master student from Johns Hopkins Bloomberg school 
   
   My research now is about retina development, using single-cell sequencing to identify the potential "MVP" transcription factors in retina photoreceptor development, then validate with functional study.
   
+  
 ####  so, I want to build a more solid foundation of using R, for doing single-cell sequencing data analysis  
  
   I also hold strong and broad interests in genetic medicine (CRISPR-based tools, RNA-therapies, RNA vaccines), immunotherapy (CAR-T and T-cell exhaustion), regenerative medicine (adult stem cell, aging and skin) and synbio, especially from a translational perspective. AND I now find that Machine learning is becoming a new trend and probably a very useful tool for many different purposes: structural biology, computer-aided drug design; personalized therapy/business/investment...
@@ -18,6 +19,7 @@ MY name is Roujin An. I am a master student from Johns Hopkins Bloomberg school 
 #### Thus, I also want to gain some basic understandings about machine-learning: concepts and basic approaches.     
   
     
+  
 # Well, 5 fun facts
 
 1. I was sent to learn ballet when I was very young, but my moves were so fierce that people suggest me to learn martial art instead.  
